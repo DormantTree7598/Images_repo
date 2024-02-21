@@ -1,0 +1,30 @@
+{
+    "about": {
+      "title": "About Me",
+      "intro": "Hi! I'm Angel, a mechatronics engineering student from Acapulco, Guerrero, a picturesque town on the coast of Mexico. As an inhabitant of a coastal town, I love the sea and the beach.",
+      "content1": "Back to academics, I have the ability to excel in programming projects, electronics and a little bit of mechanics.",
+      "content2": "Speaking of me, in my free time, I enjoy both solitude and the company of my friends, although I'm not exactly the life of the party hahaha. I also like to immerse myself in music, of all genres, but my favorite band is The 1975, as you can see below."
+    },
+    "contact": {
+      "title": "Contact Information",
+      "email": "angel@example.com",
+      "phone": "+1234567890",
+      "address": "123, Some Street, Some City, Some Country"
+    },
+    "projects": {
+      "title": "My Projects",
+      "projectOne": {
+        "name": "Project Name 1",
+        "description": "Description of Project 1"
+      },
+      "projectTwo": {
+        "name": "Project Name 2",
+        "description": "Description of Project 2"
+      }
+    },
+    "home": {
+      "welcomeMessage": "Welcome to My Portfolio",
+      "introduction": "Here you can find my work and projects."
+    }
+  }
+  
